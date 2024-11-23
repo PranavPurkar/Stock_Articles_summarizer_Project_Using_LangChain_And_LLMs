@@ -28,10 +28,10 @@ To set up the project locally, follow these steps:
     pip install -r requirements.txt
 
 ## Usage
-After installation, you can start summarizing articles by running the main script:
+After installation, you can start summarizing articles by running the main script & the application will prompt you to input the path to the stock article you wish to summarize. Upon processing, it will display the generated summary.
+   ```bash
+   python main.py
 
-  ```bash
-  python main.py
 
 
 
